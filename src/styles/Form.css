@@ -1,0 +1,14 @@
+.main-form {
+  max-width: 40%;
+  padding: 15px;
+  margin: auto;
+  margin-top: 2%;
+  position: relative;
+}
+
+.sub-form {
+  max-width: 20%;
+  margin: auto;
+  position: relative;
+}
+
