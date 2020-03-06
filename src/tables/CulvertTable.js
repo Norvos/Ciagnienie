@@ -53,7 +53,7 @@ const CulvertTable = () => {
       <h2 className="my-4 text-center">
         Tabela dla liczby ciągów równych: {store.culverts}
       </h2>
-      <table className="table table-bordered text-justify-center text-center my-table table-striped">
+      <table className="table table-bordered text-justify-center text-center my-table table-striped" id="thirdTable">
         <thead>
           <tr>
             <th scope="col">Nr ciągu</th>

@@ -3,7 +3,7 @@ import "../styles/Table.css";
 import { observer } from "mobx-react-lite";
 import Store from "../stores/store";
 
-const Table = ({ message, loss, setCulverts }) => {
+const Table = ({ message, loss, setCulverts,tableID }) => {
   const store = useContext(Store);
   const { startDiameter, endDiameter } = store;
   const tableBody = [];
@@ -51,7 +51,7 @@ const Table = ({ message, loss, setCulverts }) => {
     <>
       <div className="mt-3"></div>
       <h2 className="my-4 text-center">{message}</h2>
-      <table className="table table-bordered text-justify-center text-center my-table table-striped">
+      <table className="table table-bordered text-justify-center text-center my-table table-striped" id={tableID}>
         <thead>
           <tr>
             <th scope="col">Nr ciągu</th>
