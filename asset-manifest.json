@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Norvos/Ciagnienie/static/css/main.491a51d3.chunk.css",
-    "main.js": "/Norvos/Ciagnienie/static/js/main.d9cacd8d.chunk.js",
-    "main.js.map": "/Norvos/Ciagnienie/static/js/main.d9cacd8d.chunk.js.map",
-    "runtime-main.js": "/Norvos/Ciagnienie/static/js/runtime-main.1ca03783.js",
-    "runtime-main.js.map": "/Norvos/Ciagnienie/static/js/runtime-main.1ca03783.js.map",
-    "static/css/2.0624914a.chunk.css": "/Norvos/Ciagnienie/static/css/2.0624914a.chunk.css",
-    "static/js/2.dac155bf.chunk.js": "/Norvos/Ciagnienie/static/js/2.dac155bf.chunk.js",
-    "static/js/2.dac155bf.chunk.js.map": "/Norvos/Ciagnienie/static/js/2.dac155bf.chunk.js.map",
-    "index.html": "/Norvos/Ciagnienie/index.html",
-    "precache-manifest.5e18df9f87f236ab435ab90d83d2f871.js": "/Norvos/Ciagnienie/precache-manifest.5e18df9f87f236ab435ab90d83d2f871.js",
-    "service-worker.js": "/Norvos/Ciagnienie/service-worker.js",
-    "static/css/2.0624914a.chunk.css.map": "/Norvos/Ciagnienie/static/css/2.0624914a.chunk.css.map",
-    "static/css/main.491a51d3.chunk.css.map": "/Norvos/Ciagnienie/static/css/main.491a51d3.chunk.css.map"
+    "main.css": "/Ciagnienie/static/css/main.491a51d3.chunk.css",
+    "main.js": "/Ciagnienie/static/js/main.d9cacd8d.chunk.js",
+    "main.js.map": "/Ciagnienie/static/js/main.d9cacd8d.chunk.js.map",
+    "runtime-main.js": "/Ciagnienie/static/js/runtime-main.0758b47f.js",
+    "runtime-main.js.map": "/Ciagnienie/static/js/runtime-main.0758b47f.js.map",
+    "static/css/2.0624914a.chunk.css": "/Ciagnienie/static/css/2.0624914a.chunk.css",
+    "static/js/2.63cd8d81.chunk.js": "/Ciagnienie/static/js/2.63cd8d81.chunk.js",
+    "static/js/2.63cd8d81.chunk.js.map": "/Ciagnienie/static/js/2.63cd8d81.chunk.js.map",
+    "index.html": "/Ciagnienie/index.html",
+    "precache-manifest.c950514515fcddce86a7996ee85b91c8.js": "/Ciagnienie/precache-manifest.c950514515fcddce86a7996ee85b91c8.js",
+    "service-worker.js": "/Ciagnienie/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/Ciagnienie/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.491a51d3.chunk.css.map": "/Ciagnienie/static/css/main.491a51d3.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.1ca03783.js",
+    "static/js/runtime-main.0758b47f.js",
     "static/css/2.0624914a.chunk.css",
-    "static/js/2.dac155bf.chunk.js",
+    "static/js/2.63cd8d81.chunk.js",
     "static/css/main.491a51d3.chunk.css",
     "static/js/main.d9cacd8d.chunk.js"
   ]
