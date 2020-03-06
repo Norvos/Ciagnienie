@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Norvos/Ciagnienie/static/css/main.491a51d3.chunk.css",
+    "main.js": "/Norvos/Ciagnienie/static/js/main.d9cacd8d.chunk.js",
+    "main.js.map": "/Norvos/Ciagnienie/static/js/main.d9cacd8d.chunk.js.map",
+    "runtime-main.js": "/Norvos/Ciagnienie/static/js/runtime-main.1ca03783.js",
+    "runtime-main.js.map": "/Norvos/Ciagnienie/static/js/runtime-main.1ca03783.js.map",
+    "static/css/2.0624914a.chunk.css": "/Norvos/Ciagnienie/static/css/2.0624914a.chunk.css",
+    "static/js/2.dac155bf.chunk.js": "/Norvos/Ciagnienie/static/js/2.dac155bf.chunk.js",
+    "static/js/2.dac155bf.chunk.js.map": "/Norvos/Ciagnienie/static/js/2.dac155bf.chunk.js.map",
+    "index.html": "/Norvos/Ciagnienie/index.html",
+    "precache-manifest.5e18df9f87f236ab435ab90d83d2f871.js": "/Norvos/Ciagnienie/precache-manifest.5e18df9f87f236ab435ab90d83d2f871.js",
+    "service-worker.js": "/Norvos/Ciagnienie/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/Norvos/Ciagnienie/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.491a51d3.chunk.css.map": "/Norvos/Ciagnienie/static/css/main.491a51d3.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ca03783.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.dac155bf.chunk.js",
+    "static/css/main.491a51d3.chunk.css",
+    "static/js/main.d9cacd8d.chunk.js"
+  ]
+}
